@@ -1,4 +1,5 @@
-# notes sharing
+# 笔记
+**Cheng Jun**
 📔 📒 📕 📗 📘 📙 📚 🖋
 
 笔记文件存放在doc文件夹中。
